@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MOHD WAQAR AZIM</h1>
-<h3 align="center">A passionate Full-Stack developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar53&label=Profile%20views&color=0e75b6&style=flat" alt="waqar53" /> </p>
 
@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/waqar_azim7" target="blank"><img src="https://img.shields.io/twitter/follow/waqar_azim7?logo=twitter&style=for-the-badge" alt="waqar_azim7" /></a> </p>
 
-- 🔭 I’m currently working on **MERN Projects**
+- 🔭 I’m currently working on **iOS Development**
 
-- 🌱 I’m currently learning **React js and Redux toolkit**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 📫 How to reach me **mdwaqarazim@gmail.com**
 
