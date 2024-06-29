@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohd Waqar Azim</h1>
-<h3 align="center">I am a passionate developer who is currently learning iOS developmentvelopment</h3>
+<h3 align="center">I am a passionate developer who is currently learning iOS development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=waqar53&label=Profile%20views&color=0e75b6&style=flat" alt="waqar53" /> </p>
 
