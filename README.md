@@ -32,13 +32,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/waqar_azim7" target="blank">
+<a href="https://x.com/waqarx10" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="waqar_azim7" height="30" width="40" />
 </a>
-<a href="https://linkedin.com/in/mohd waqar azim" target="blank">
+<a href="[https://linkedin.com/in/mohd waqar azim](https://www.linkedin.com/in/mohd-waqar-azim-07b944281/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohd waqar azim" height="30" width="40" />
 </a>
-<a href="https://instagram.com/mohdwaqarazim" target="blank">
+<a href="[https://instagram.com/mohdwaqarazim](https://www.instagram.com/mohdwaqarazim_/)" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohdwaqarazim" height="30" width="40" />
 </a>
 <a href="https://codeforces.com/profile/daddywaqi" target="blank">
