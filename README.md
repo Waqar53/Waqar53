@@ -12,7 +12,7 @@
 </p>
 
 <p align="left">
-  <a href="https://twitter.com/waqar_azim7" target="blank">
+  <a href="[https://twitter.com/waqar_azim7](https://x.com/waqarx10)" target="blank">
     <img src="https://img.shields.io/twitter/follow/waqar_azim7?logo=twitter&style=for-the-badge" alt="waqar_azim7" />
   </a>
 </p>
