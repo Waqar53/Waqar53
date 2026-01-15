@@ -1,3 +1,4 @@
+![Visitors](https://hits.sh/github.com/Waqar53/SentinelOS.svg?style=flat-square)
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Mohd Waqar Azim</h1><br><h3 align="center">AI / ML Engineer • Generative AI • Computer Vision</h3><br>About Me:<br><br>- 🧠 AI / ML Engineer focused on **applied machine learning and production-ready AI**<br>- 🤖 Currently working on **Generative AI, LLMs, and RAG pipelines**<br>- 👯 Open to collaborating on **AI / ML & GenAI projects**<br>- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, LLMs**<br>- 📫 How to reach me **waqarworks11@gmail.com**<br>- ⚡ Fun fact **Building intelligent systems is my favorite dopamine source**<br>
 
