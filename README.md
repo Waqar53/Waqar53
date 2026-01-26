@@ -1,37 +1,91 @@
-![Visitors](https://hits.sh/github.com/Waqar53/SentinelOS.svg?style=flat-square)
-# 💫 About Me:
-<h1 align="center">Hi 👋, I'm Mohd Waqar Azim</h1><br><h3 align="center">AI / ML Engineer • Generative AI • Computer Vision</h3><br>About Me:<br><br>- 🧠 AI / ML Engineer focused on **applied machine learning and production-ready AI**<br>- 🤖 Currently working on **Generative AI, LLMs, and RAG pipelines**<br>- 👯 Open to collaborating on **AI / ML & GenAI projects**<br>- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision, LLMs**<br>- 📫 How to reach me **waqarworks11@gmail.com**<br>- ⚡ Fun fact **Building intelligent systems is my favorite dopamine source**<br>
+# Hi, I'm Waqar 👋
 
+📍 **India** | 🤖 **AI/ML Engineer** | 🎓 **CS Major'27** | 🚀 **Open Source Contributor**
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohdwaqarazim_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohd-waqar-azim-07b944281/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/waqarx10) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Mohd Waqar Azim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:waqarworks11@gmail.com) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://www.buymeacoffee.com/waqarazim">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="waqarazim" />
-  </a>
-</p>
-<br><br>
+> Building production-ready AI systems – from LLM pipelines to computer vision. Currently deep in Generative AI, RAG, and agentic workflows.
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Waqar53&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Waqar53&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Waqar53&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+## 🔥 Open Source Contributions
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Waqar53&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+I actively contribute to production AI frameworks:
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-[![](https://visitcount.itsvg.in/api?id=Waqar53&icon=0&color=0)](https://visitcount.itsvg.in)
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| **[instructor](https://github.com/instructor-ai/instructor)** | [fix(deps): move dev dependencies to correct section](https://github.com/instructor-ai/instructor/pull/1933) | ✅ **Merged** |
+| **[instructor](https://github.com/instructor-ai/instructor)** | `json_system_prompt` customization (Issue #1514) | 🔄 In Progress |
+| **[hive](https://github.com/adenhq/hive)** | [Fix OutputCleaner Hardcoded Cerebras Dependency](https://github.com/adenhq/hive/pull/367) | 🔄 In Review |
 
+---
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=waqar53&theme=tokyonight" alt="waqar53" />
+## 🚀 Featured Projects
+
+### AI & Machine Learning
+- 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system
+- 🏥 **[MedExplain](https://github.com/Waqar53/MedExplain-v1)** – Medical report explainer using LLMs
+- 🩺 **[diagnostic-copilot](https://github.com/Waqar53/diagnostic-copilot)** – AI diagnostic assistant for healthcare
+- 📊 **[customer_intelligence_ai](https://github.com/Waqar53/customer_intelligence_ai)** – Customer analytics powered by ML
+- 🥗 **[NutriScan](https://github.com/Waqar53/NutriScan)** – AI-powered nutrition analysis from food images
+
+### Computer Vision
+- 👁️ **[Face-Detection-OpenCV](https://github.com/Waqar53/Face-Detection-Open-CV)** – Chrome extension for facial authentication
+- 🚦 **[Smart-Transportation](https://github.com/Waqar53/Smart-Transportation-Project)** – CV-based traffic optimization
+
+### Apple Platforms
+- 🎙️ **[V-AI Voice Assistant](https://github.com/Waqar53/V-AI_VOICE-ASSISATANT)** – SwiftUI voice assistant for macOS/visionOS
+- 📷 **[BarcodeScannerApp](https://github.com/Waqar53/BarcodeScannerApp)** – Native iOS barcode scanner
+
+### FinTech
+- 📈 **[QuantXAlgo](https://github.com/Waqar53/QauntXAlgo)** – Algorithmic trading & quant analysis platform
+
+---
+
+## 📊 GitHub Activity
+
+![GitHub Contribution Graph](https://ghchart.rshah.org/Waqar53)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Waqar53&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Waqar53&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+---
+
+## 💡 What I'm Building
+
+- **LLM Pipelines** – Production RAG systems with evaluation & monitoring
+- **Agentic AI** – Multi-agent orchestration and tool-calling frameworks  
+- **Computer Vision** – Real-time detection & classification systems
+- **Apple AI** – Native ML experiences on iOS/macOS/visionOS
+
+---
+
+## 🤝 Connect
+
+[![Twitter](https://img.shields.io/badge/-@waqarx10-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/waqarx10)
+[![LinkedIn](https://img.shields.io/badge/-Mohd_Waqar_Azim-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohd-waqar-azim-07b944281/)
+[![Email](https://img.shields.io/badge/-waqarworks11@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:waqarworks11@gmail.com)
+[![Instagram](https://img.shields.io/badge/-@mohdwaqarazim_-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/mohdwaqarazim_)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Waqar53)
+
+---
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/waqarazim">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" alt="Buy Me a Coffee" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Waqar53&style=flat-square&color=blueviolet" alt="Profile Views" />
 </p>
