@@ -1,22 +1,52 @@
 # Hi, I'm Waqar 👋
 
-📍 **India** |  **AI/ML Engineer** |  **CS Major'27** |  **Open Source Contributor**
+📍 **India** | 🤖 **AI/ML Engineer** | 🎓 **CS Undergrad** | 🚀 **Open Source Contributor**
 
+### AI / ML
+![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logo=scikit-learn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NLP](https://img.shields.io/badge/-NLP-4B8BBE?style=flat-square&logo=spacy&logoColor=white)
+![RAG](https://img.shields.io/badge/-RAG%20Pipelines-412991?style=flat-square&logo=openai&logoColor=white)
+![LLMs](https://img.shields.io/badge/-LLMs-000000?style=flat-square&logo=anthropic&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt%20Engineering-74aa9c?style=flat-square&logo=openai&logoColor=white)
+
+### Libraries & Frameworks
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+
+### Backend & APIs
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+### Languages & Tools
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 > Building production-ready AI systems – from LLM pipelines to computer vision. Currently deep in Generative AI, RAG, and agentic workflows.
 
 ---
 
-##  Open Source Contributions
+## 🔥 Open Source Contributions
 
 I actively contribute to production AI frameworks:
 
@@ -28,7 +58,7 @@ I actively contribute to production AI frameworks:
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### AI & Machine Learning
 - 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system
@@ -50,7 +80,7 @@ I actively contribute to production AI frameworks:
 
 ---
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 ![GitHub Contribution Graph](https://ghchart.rshah.org/Waqar53)
 
