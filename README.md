@@ -1,6 +1,6 @@
 # Hi, I'm Waqar 👋
 
-📍 **India** | 🤖 **AI/ML Engineer** | 🎓 **CS Undergrad** | 🚀 **Open Source Contributor**
+📍 **remote** |  **AI/ML Engineer** |  **CS Undergrad'27** |  **Open Source Contributor**
 
 ### AI / ML
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🔥 Open Source Contributions
+## Open Source Contributions
 
 I actively contribute to production AI frameworks:
 
@@ -58,7 +58,7 @@ I actively contribute to production AI frameworks:
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AI & Machine Learning
 - 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system
