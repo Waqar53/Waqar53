@@ -1,6 +1,6 @@
 # Hi, I'm Waqar 👋
 
-📍 **remote** |  **AI/ML Engineer** |  **CS Undergrad'27** |  **Open Source Contributor**
+📍 **Remote** |  **AI/ML Engineer** |  **CS Major'27** |  **Open Source Contributor**
 
 ### AI / ML
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logo=scikit-learn&logoColor=white)
