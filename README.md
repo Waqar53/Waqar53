@@ -93,6 +93,13 @@ I actively contribute to production AI frameworks:
 
 ## 💡 What I'm Building
 
+### 🔥 Currently Working On
+- 🚀 **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
+  - Full-stack Go + Next.js enterprise platform
+  - AI code analysis, auto-deployment, cost optimization
+  - 20,000+ lines of production code
+
+### Other Focus Areas
 - **LLM Pipelines** – Production RAG systems with evaluation & monitoring
 - **Agentic AI** – Multi-agent orchestration and tool-calling frameworks  
 - **Computer Vision** – Real-time detection & classification systems
