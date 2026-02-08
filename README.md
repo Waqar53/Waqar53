@@ -63,10 +63,10 @@
 
 ---
 
-## 🔥 Open Source Contributions
+## Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-3-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-4-success?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Contributions-instructor%20|%20hive-blue?style=for-the-badge" />
 </p>
 
