@@ -55,7 +55,7 @@
 ## Experience
 
 ### Machine Learning Intern — Sugarbiz Consultant & Services Ltd, London 🇬🇧
-*June 2025 – July 2025*
+*June 2025 – July 2025* (remote)
 
 - Built and trained CNN models to classify 50+ bird species from raw images, achieving 90%+ validation accuracy
 - Designed preprocessing and augmentation pipelines that improved generalization and reduced overfitting on noisy field data
