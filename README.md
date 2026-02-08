@@ -1,6 +1,6 @@
 # Hi, I'm Waqar 👋
 
-📍 **Remote** |  **AI/ML Engineer** |  **CS Major'27** |  **Open Source Contributor**
+📍 **Remote** | 🤖 **AI/ML Engineer** | 🎓 **CS Major'27** | 🚀 **Open Source Contributor**
 
 ### AI / ML
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -22,6 +22,7 @@
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/-LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
 ![FAISS](https://img.shields.io/badge/-FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![Instructor](https://img.shields.io/badge/-Instructor-FF4B4B?style=flat-square&logo=pydantic&logoColor=white)
 
 ### Backend & APIs
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
@@ -39,6 +40,7 @@
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -46,19 +48,26 @@
 
 ---
 
-## Open Source Contributions
+## 🔥 Open Source Contributions
 
-I actively contribute to production AI frameworks:
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs%20Merged-4-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-instructor%20|%20hive-blue?style=for-the-badge" />
+</p>
+
+I actively contribute to production AI frameworks used by thousands of developers:
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
-| **[instructor](https://github.com/instructor-ai/instructor)** | [fix(deps): move dev dependencies to correct section](https://github.com/instructor-ai/instructor/pull/1933) | ✅ **Merged** |
-| **[instructor](https://github.com/instructor-ai/instructor)** | `json_system_prompt` customization (Issue #1514) | 🔄 In Progress |
+| **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(cli): add --full-id flag for batch IDs](https://github.com/instructor-ai/instructor/pull/2068) | ✅ **Merged** |
+| **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [feat: remove 'genius expert' from JSON prompts](https://github.com/instructor-ai/instructor/pull/2069) | ✅ **Merged** |
+| **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(deps): move dev dependencies to correct section](https://github.com/instructor-ai/instructor/pull/1933) | ✅ **Merged** |
+| **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(security): prevent prompt injection in llm_validator](https://github.com/instructor-ai/instructor/pull/2067) | 🔄 In Review |
 | **[hive](https://github.com/adenhq/hive)** | [Fix OutputCleaner Hardcoded Cerebras Dependency](https://github.com/adenhq/hive/pull/367) | 🔄 In Review |
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### AI & Machine Learning
 - 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system
@@ -66,10 +75,15 @@ I actively contribute to production AI frameworks:
 - 🩺 **[diagnostic-copilot](https://github.com/Waqar53/diagnostic-copilot)** – AI diagnostic assistant for healthcare
 - 📊 **[customer_intelligence_ai](https://github.com/Waqar53/customer_intelligence_ai)** – Customer analytics powered by ML
 - 🥗 **[NutriScan](https://github.com/Waqar53/NutriScan)** – AI-powered nutrition analysis from food images
+- 📋 **[pra_corep_llm](https://github.com/Waqar53/pra_corep_llm)** – LLM-powered regulatory reporting assistant
 
 ### Computer Vision
 - 👁️ **[Face-Detection-OpenCV](https://github.com/Waqar53/Face-Detection-Open-CV)** – Chrome extension for facial authentication
 - 🚦 **[Smart-Transportation](https://github.com/Waqar53/Smart-Transportation-Project)** – CV-based traffic optimization
+
+### Full-Stack & DevOps
+- 🔧 **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
+- 💼 **[adClassLLC](https://github.com/Waqar53/adClassLLC)** – AI-powered ad intelligence platform
 
 ### Apple Platforms
 - 🎙️ **[V-AI Voice Assistant](https://github.com/Waqar53/V-AI_VOICE-ASSISATANT)** – SwiftUI voice assistant for macOS/visionOS
@@ -94,7 +108,7 @@ I actively contribute to production AI frameworks:
 ## 💡 What I'm Building
 
 ### Currently Working On
--  **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
+- 🔧 **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
   - Full-stack Go + Next.js enterprise platform
   - AI code analysis, auto-deployment, cost optimization
   - 20,000+ lines of production code
