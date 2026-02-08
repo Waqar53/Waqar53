@@ -67,7 +67,7 @@ I actively contribute to production AI frameworks used by thousands of developer
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 ### AI & Machine Learning
 - 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system
