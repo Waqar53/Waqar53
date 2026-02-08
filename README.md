@@ -1,6 +1,6 @@
 # Hi, I'm Waqar 👋
 
-📍 **Remote** |  **AI/ML Engineer** | 🎓 **CS Major'27** | **Open Source Contributor**
+📍 **Remote** |  **AI/ML Engineer** | 🎓 **CS Major'27** |  **Open Source Contributor**
 
 ### AI / ML
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-01D277?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -25,22 +25,26 @@
 ![Instructor](https://img.shields.io/badge/-Instructor-FF4B4B?style=flat-square&logo=pydantic&logoColor=white)
 
 ### Backend & APIs
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/-Pydantic-E92063?style=flat-square&logo=pydantic&logoColor=white)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
 ### Languages & Tools
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
@@ -48,10 +52,21 @@
 
 ---
 
-##  Open Source Contributions
+## Experience
+
+### Machine Learning Intern — Sugarbiz Consultant & Services Ltd, London 🇬🇧
+*June 2025 – July 2025*
+
+- Built and trained CNN models to classify 50+ bird species from raw images, achieving 90%+ validation accuracy
+- Designed preprocessing and augmentation pipelines that improved generalization and reduced overfitting on noisy field data
+- Delivered an end-to-end ML pipeline (data prep → training → evaluation → inference) used in internal demos
+
+---
+
+## 🔥 Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-4-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-3-success?style=for-the-badge&logo=github" />
   <img src="https://img.shields.io/badge/Contributions-instructor%20|%20hive-blue?style=for-the-badge" />
 </p>
 
@@ -67,30 +82,35 @@ I actively contribute to production AI frameworks used by thousands of developer
 
 ---
 
-## Featured Projects
+##  Featured Projects
 
 ### AI & Machine Learning
-- 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system
-- 🏥 **[MedExplain](https://github.com/Waqar53/MedExplain-v1)** – Medical report explainer using LLMs
-- 🩺 **[diagnostic-copilot](https://github.com/Waqar53/diagnostic-copilot)** – AI diagnostic assistant for healthcare
-- 📊 **[customer_intelligence_ai](https://github.com/Waqar53/customer_intelligence_ai)** – Customer analytics powered by ML
-- 🥗 **[NutriScan](https://github.com/Waqar53/NutriScan)** – AI-powered nutrition analysis from food images
-- 📋 **[pra_corep_llm](https://github.com/Waqar53/pra_corep_llm)** – LLM-powered regulatory reporting assistant
+- 🧠 **[SentinelOS](https://github.com/Waqar53/SentinelOS)** – AI-powered security monitoring system with real-time threat detection
+- 🏥 **[MedExplain](https://github.com/Waqar53/MedExplain-v1)** – Medical report explainer using LLMs for patient-friendly summaries
+- 🩺 **[diagnostic-copilot](https://github.com/Waqar53/diagnostic-copilot)** – AI diagnostic assistant for healthcare professionals
+- 📊 **[customer_intelligence_ai](https://github.com/Waqar53/customer_intelligence_ai)** – Customer analytics and churn prediction powered by ML
+- 🥗 **[NutriScan](https://github.com/Waqar53/NutriScan)** – AI-powered nutrition analysis from food images using computer vision
+- 📋 **[pra_corep_llm](https://github.com/Waqar53/pra_corep_llm)** – Multi-agent LLM system for PRA COREP regulatory reporting
 
 ### Computer Vision
-- 👁️ **[Face-Detection-OpenCV](https://github.com/Waqar53/Face-Detection-Open-CV)** – Chrome extension for facial authentication
-- 🚦 **[Smart-Transportation](https://github.com/Waqar53/Smart-Transportation-Project)** – CV-based traffic optimization
+- 👁️ **[Face-Detection-OpenCV](https://github.com/Waqar53/Face-Detection-Open-CV)** – Chrome extension for real-time facial authentication
+- 🚦 **[Smart-Transportation](https://github.com/Waqar53/Smart-Transportation-Project)** – CV-based traffic optimization and vehicle detection
 
 ### Full-Stack & DevOps
-- 🔧 **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
-- 💼 **[adClassLLC](https://github.com/Waqar53/adClassLLC)** – AI-powered ad intelligence platform
+- 🔧 **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform (Go + Next.js, 20k+ lines) | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
+- 💼 **[adClassLLC](https://github.com/Waqar53/adClassLLC)** – AI-powered ad intelligence platform with ML predictions
+- 🌐 **[Portfolio](https://github.com/Waqar53/Portfolio-waqar)** – Personal portfolio website showcasing projects
 
 ### Apple Platforms
-- 🎙️ **[V-AI Voice Assistant](https://github.com/Waqar53/V-AI_VOICE-ASSISATANT)** – SwiftUI voice assistant for macOS/visionOS
-- 📷 **[BarcodeScannerApp](https://github.com/Waqar53/BarcodeScannerApp)** – Native iOS barcode scanner
+- 🎙️ **[V-AI Voice Assistant](https://github.com/Waqar53/V-AI_VOICE-ASSISATANT)** – SwiftUI voice assistant for macOS/visionOS with CoreML
+- 📷 **[BarcodeScannerApp](https://github.com/Waqar53/BarcodeScannerApp)** – Native iOS barcode scanner with AVFoundation
+- 🔐 **[Passcode-LockScreen](https://github.com/Waqar53/Passcode-LockScreen_Auth)** – iOS passcode authentication system
+- ☀️ **[WeatherApp](https://github.com/Waqar53/WeatherApp)** – SwiftUI weather app with live API integration
+- 📱 **[SwiftUI-Basics](https://github.com/Waqar53/SwiftUI-Basics)** – SwiftUI examples and learning projects
 
-### FinTech
-- 📈 **[QuantXAlgo](https://github.com/Waqar53/QauntXAlgo)** – Algorithmic trading & quant analysis platform
+### FinTech & Blockchain
+- 📈 **[QuantXAlgo](https://github.com/Waqar53/QauntXAlgo)** – Algorithmic trading & quantitative analysis platform
+- 🔍 **[BugBounty](https://github.com/Waqar53/bugbounty)** – Security vulnerability research and bug bounty tools
 
 ---
 
@@ -108,10 +128,10 @@ I actively contribute to production AI frameworks used by thousands of developer
 ## 💡 What I'm Building
 
 ### Currently Working On
-- 🔧 **[OpsAgent](https://github.com/Waqar53/Ops-agent)** – AI-powered DevOps automation platform | [**Live Demo**](https://web-mu-blue-64.vercel.app/)
-  - Full-stack Go + Next.js enterprise platform
-  - AI code analysis, auto-deployment, cost optimization
-  - 20,000+ lines of production code
+- 🎙️ **Genesis** – AI voice assistant that controls your entire Mac
+  - Full system control via natural language commands
+  - Powered by LLMs, CoreML, and AppleScript automation
+  - Building the future of hands-free computing
 
 ### Other Focus Areas
 - **LLM Pipelines** – Production RAG systems with evaluation & monitoring
