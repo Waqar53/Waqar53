@@ -65,19 +65,20 @@
 ## Open Source Contributions
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PRs%20Merged-4-success?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Contributions-instructor%20|%20hive-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PRs%20Merged-6-success?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/Contributions-haystack%20|%20instructor%20|%20hive-blue?style=for-the-badge" />
 </p>
 
 I actively contribute to production AI frameworks used by thousands of developers:
 
 | Project | Contribution | Status |
 |---------|-------------|--------|
+| **[haystack](https://github.com/deepset-ai/haystack)** ⭐ 40k+ | [fix: Make PipelineRuntimeError handling in Agent.run_async the same as Agent.run and fix tool break point validation](https://github.com/deepset-ai/haystack/pull/10639) | ✅ **Merged** |
 | **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(cli): add --full-id flag for batch IDs](https://github.com/instructor-ai/instructor/pull/2068) | ✅ **Merged** |
 | **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [feat: remove 'genius expert' from JSON prompts](https://github.com/instructor-ai/instructor/pull/2069) | ✅ **Merged** |
 | **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(deps): move dev dependencies to correct section](https://github.com/instructor-ai/instructor/pull/1933) | ✅ **Merged** |
-| **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(security): prevent prompt injection in llm_validator](https://github.com/instructor-ai/instructor/pull/2067) | 🔄 In Review |
-| **[hive](https://github.com/adenhq/hive)** | [Fix OutputCleaner Hardcoded Cerebras Dependency](https://github.com/adenhq/hive/pull/367) | 🔄 In Review |
+| **[instructor](https://github.com/instructor-ai/instructor)** ⭐ 9k+ | [fix(security): prevent prompt injection in llm_validator](https://github.com/instructor-ai/instructor/pull/2067) | ✅ **Merged** |
+| **[hive](https://github.com/adenhq/hive)** | [Fix OutputCleaner Hardcoded Cerebras Dependency](https://github.com/adenhq/hive/pull/367) | ✅ **Merged** |
 
 ---
 
